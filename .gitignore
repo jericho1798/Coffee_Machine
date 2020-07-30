@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Complex numbers/out/
+/Problems/Complex numbers/out/production/classes/
+/Problems/Composite numbers/out/
+/Problems/Composite numbers/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems/Inner boxes/out/
+/Problems/Inner boxes/out/production/classes/
+/Problems/Numbers divisible by six/out/
+/Problems/Numbers divisible by six/out/production/classes/
+/Problems/Project constants and methods/out/
+/Problems/Project constants and methods/out/production/classes/
+/Problems/Simulating a clock/out/
+/Problems/Simulating a clock/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The result of a Tic-Tac-Toe game/out/
+/Problems/The result of a Tic-Tac-Toe game/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/Too many cats/out/
+/Problems/Too many cats/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
